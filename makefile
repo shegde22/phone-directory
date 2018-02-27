@@ -1,0 +1,3 @@
+all: shegde1_szite1_phone_directory.out
+shegde1_szite1_phone_directory.out:shegde1_szite1_phone_directory.cpp
+	g++  shegde1_szite1_phone_directory.cpp -o shegde1_szite1_phone_directory.out
